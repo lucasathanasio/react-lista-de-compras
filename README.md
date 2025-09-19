@@ -1,9 +1,6 @@
 # 🛒 Lista de Compras com React
 
-![React](https://skillicons.dev/icons?i=react)
-![JavaScipt](https://skillicons.dev/icons?i=js)
-![Node](https://skillicons.dev/icons?i=nodejs)
-![StyledComponents](https://skillicons.dev/icons?i=styledcomponents)
+[![Tecnologias](https://skillicons.dev/icons?i=react,js,nodejs,styledcomponents&theme=dark)](https://skillicons.dev)
 
 ## Descrição
 
